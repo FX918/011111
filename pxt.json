@@ -1,0 +1,25 @@
+{
+    "name": "011111",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.5.4",
+        "gamePad": "github:dfrobot/pxt-gamepad#v1.1.0",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
